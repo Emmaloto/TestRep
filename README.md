@@ -1,2 +1,0 @@
-# TestRep
-Trying out GitHub. 
