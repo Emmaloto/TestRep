@@ -2,6 +2,10 @@ import java.awt.*;
 import java.awt.event.*;
 import javax.swing.*;
 
+
+// This class requires the entire project to run
+
+
 @SuppressWarnings("serial")
 public class MouseEvt extends JFrame implements MouseListener, 
 												MouseMotionListener,
